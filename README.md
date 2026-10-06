@@ -2,10 +2,7 @@
 
 ### Finance Professional | MSc Finance | Quantitative Finance
 
-I am a finance professional with 10+ years of experience across financial analysis, project finance, financial modeling, reporting, and business analytics.
-
-I hold an MSc in Finance from The George Washington University and use quantitative and data-driven approaches to analyze financial markets, evaluate risk, model investment decisions, and support business decision-making.
-
+I am a finance professional with MSc in Finance and substantial experience in accounting, financial analysis, and project finance. My training includes quantitative modeling, forecasting, risk analysis, and data analytics. I use data-driven approaches to analyze financial information, evaluate risk, develop financial models, and turn complex data into coherent stories and actionable insights.
 ### Areas of Interest
 
 - Quantitative Finance
@@ -19,7 +16,7 @@ I hold an MSc in Finance from The George Washington University and use quantitat
 ### Technical Skills
 
 **Programming & Data:**  
-Python | Pandas | NumPy | SciPy | Statsmodels | SQL
+Python | SAS | MATLAB | SQL | Pandas | NumPy | SciPy | Statsmodels
 
 **Finance & Quantitative Analysis:**  
 Financial Modeling | Forecasting | Statistical Analysis | Regression | Time-Series Analysis | Risk Analysis | Monte Carlo Simulation | Derivatives | Portfolio Analysis
