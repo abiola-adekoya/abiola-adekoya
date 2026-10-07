@@ -1,4 +1,4 @@
-# Hi, I'm Abiola Adekoya 👋
+# Hi, I'm Abiola 👋
 
 ### Finance Professional | MSc Finance | Quantitative Finance
 
